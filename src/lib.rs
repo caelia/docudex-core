@@ -1,3 +1,6 @@
+pub mod config;
+pub mod library;
+
 #[cfg(test)]
 mod tests {
     #[test]
